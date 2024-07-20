@@ -5,4 +5,5 @@ WPU LATIHAN BARU
 -portal4
 -portal5
 -portal26
--portal14
+-portal7
+
